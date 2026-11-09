@@ -4,6 +4,8 @@
 
 <h1 align="center">TAKI<span>.</span> — Portfolio</h1>
 
+<p align="center"><a href="https://takiapps.com/portfolio/"><b>▶ Live: takiapps.com/portfolio</b></a></p>
+
 <p align="center">
   A cinematic one-page portfolio in black and signal red — and the page builds itself.<br>
   A swarm of Figma-style AI agent cursors selects, types and places every layer live, then circles the reel.
